@@ -2,13 +2,11 @@
 
 This is a **beginner-friendly React project** for an **ecommerce store** selling dog-related products. It helps new developers learn **React components, state management, and API handling** while building a simple **shopping website**.
 
-![Dog Ecommerce Screenshot](dog-ecommerce.png "Dog Ecommerce Website UI")
 
 ## 🚀 Features
 - 🛍️ **Add to Cart** functionality
 - 🐕 **Dog Product Listings** with images & prices
-- 🔍 **Search & Filters** (by breed, price, and category)
-- 📦 **Checkout Page** for placing orders
+- 🔍 **Filters** (by Accessories, Food, Toys, and many more)
 - 🎨 **Fully Responsive** design (mobile & desktop)
 - ⚛️ **Built with React (Hooks & State Management)**
 
@@ -32,7 +30,7 @@ $ npm start
 - Browse dog products, add items to the cart, and proceed to checkout.
 
 ## 🎥 Demo
-[Live Demo](https://your-demo-url.com) *(optional: if hosted on GitHub Pages or Vercel)*
+[Live Demo](https://dog-ecommerce.vercel.app/) 
 
 ## 📸 Screenshots
 ### 🛒 Homepage
@@ -54,8 +52,3 @@ This project is open-source under the **MIT License**.
 Pull requests are welcome! Feel free to **open an issue** if you find bugs or want to suggest improvements.
 
 ---
-
-🔗 **Connect with me:**  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)  
-🌎 Portfolio: [yourwebsite.com](https://yourwebsite.com)

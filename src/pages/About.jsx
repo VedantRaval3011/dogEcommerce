@@ -1,3 +1,4 @@
+import React from 'react';
 import { Heart, Shield, Truck, Award } from 'lucide-react';
 
 const About = () => {
