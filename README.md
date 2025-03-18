@@ -19,7 +19,7 @@ This is a **beginner-friendly React project** for an **ecommerce store** selling
 ## 📦 Installation
 Clone this repository and install dependencies:
 ```sh
-$ git clone https://github.com/yourusername/dog-ecommerce-react.git
+$ git clone https://github.com/vedantraval3011/dog-ecommerce-react.git
 $ cd dog-ecommerce-react
 $ npm install
 $ npm start
